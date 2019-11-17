@@ -73,3 +73,19 @@ PARPACK/TESTS/MPI/issue46
 *.suo
 VISUAL_STUDIO/Release MKL/
 VISUAL_STUDIO/bin/
+
+VISUAL_STUDIO/Debug/
+
+VISUAL_STUDIO/x64/Release MKL/
+
+VISUAL_STUDIO/My Advisor Results - arpack-ng/e000/
+
+VISUAL_STUDIO/My Advisor Results - arpack-ng/
+
+VISUAL_STUDIO/Release/
+
+*.sqlite
+
+*.db
+
+*.json

@@ -133,8 +133,8 @@
 		<File RelativePath="..\UTIL\ivout.f"/>
 		<File RelativePath="..\UTIL\second.f">
 			<FileConfiguration Name="Debug MKL|Win32" ExcludedFromBuild="true"/>
-			<FileConfiguration Name="Debug MKL|x64" ExcludedFromBuild="true"/>
 			<FileConfiguration Name="Debug|Win32" ExcludedFromBuild="true"/>
+			<FileConfiguration Name="Debug MKL|x64" ExcludedFromBuild="true"/>
 			<FileConfiguration Name="Release|x64" ExcludedFromBuild="true"/>
 			<FileConfiguration Name="Debug|x64" ExcludedFromBuild="true"/>
 			<FileConfiguration Name="Release MKL|x64" ExcludedFromBuild="true"/>
